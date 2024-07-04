@@ -400,7 +400,7 @@ hr {
 .navbar .navbar-item .navbar-title img {
     width: 250px;
     height: 150px;
-    margin-top: -3.1rem;
+    margin-top: -2rem;
 }
 
 .navbar .navbar-item ul {
@@ -538,8 +538,8 @@ hr {
 }
 
 .sidebar .sidebar-list li img {
-    width: 50%;
-    height: 40%;
+    width: 80%;
+    height: 80%;
     margin-left: auto;
     margin-right: auto;
     display: block;

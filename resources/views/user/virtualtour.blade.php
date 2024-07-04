@@ -1,5 +1,5 @@
 @extends('layout.main')
-@section('title','Virtual Tour | IPTEK 360°')
+@section('title','Virtual Tour | ISC 360°')
 @section('content')
 
 <section class="section-header-single">
@@ -23,8 +23,8 @@
     <section class="section-events" id="events">
       <div class="section-events container">
         <div class="section-events title">
-            <h1>Virtual Tour Museum PP-IPTEK</h1>
-            <h3>Jelajahi Museum PP-IPTEK Langsung Dari Layar Gadget Anda</h3>
+            <h1>Virtual Tour Indonesia Science Center (PP-IPTEK)</h1>
+            <h3>Jelajahi Indonesia Science Center (PP-IPTEK) Langsung Dari Layar Gadget Anda</h3>
             <div class="line"></div>
         </div>
         

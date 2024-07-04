@@ -3,11 +3,11 @@
       <div class="container">
         <div class="navbar-bars">
           <a href="#" class="navbar-title sidebar-toggle" style="padding: 0"><i class="ion-navicon-round"></i></a>
-          <a href="{{route('home')}}" class="navbar-title">IPTEK 360°</a>
+          <a href="{{route('home')}}" class="navbar-title">ISC 360°</a>
         </div>
         <div class="navbar-item">
           <a href="{{route('home')}}" class="navbar-title">
-            <img src="{{asset('assets/logo utama.png')}}" alt="">
+            <img src="{{asset('assets/ISC 360°.png')}}" alt="">
           </a>
           <ul>
             <li>
@@ -39,7 +39,7 @@
           <a href="" class="close"><span class="ion-android-close"></span></a>
         </li>
         <li>
-          <img src="{{asset('assets/logo utama.png')}}" alt="">
+          <img src="{{asset('assets/ISC 360°.png')}}" alt="">
         </li>
         <li class="sidebar-list-hover">
           <a href="{{route('beranda')}}">Home</a>

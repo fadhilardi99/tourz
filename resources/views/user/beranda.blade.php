@@ -1,5 +1,5 @@
 @extends('layout.main')
-@section('title','Home | IPTEK 360°')
+@section('title','Home | ISC 360°')
 @section('content')
 
 <!-- Section Header -->
@@ -7,12 +7,12 @@
 <div class="slider">
   <div class="slide" style="background-image: url('/assets/background.png'); background-position:center; ">
      <div class="title">
-       <h1>VIRTUAL TOUR MUSUEM PP-IPTEK</h1>
+       <h1>VIRTUAL TOUR <br/>INDONESIA SCIENCE CENTER (PP-IPTEK)</h1>
      </div>
      <div class="title-min">
       <h1>
         VIRTUAL TOUR <br />
-              MUSEUM <br />PP-IPTEK <br />
+              ISC <br />PP-IPTEK <br />
       </h1>
      </div>
   </div>
@@ -24,9 +24,9 @@
 <section class="section section-about">
   <div class="texture-handler-top "></div>
   <div class="about-head slides">
-    <h3>Iptek 360°</h3>
+    <h3>ISC 360°</h3>
     <p>
-      <b>Iptek 360° </b> merupakan website yang memungkinkan pengguna untuk melakukan tur virtual di kawasan Museum PP-IPTEK di Taman Mini Indonesia Indah. Aplikasi ini menyediakan informasi mengenai lokasi, fasilitas dan alat peraga pada kawasan tersebut, serta memberikan pengalaman tur virtual yang menyenangkan dan menambah pengetahuan pengguna tentang Science. Fitur-fitur yang mungkin termasuk dalam aplikasi ini meliputi peta interaktif dan gambar panorama.
+      <b>ISC 360° </b> merupakan website yang memungkinkan pengguna untuk melakukan tur virtual di kawasan Indonesia Science Center (PP-IPTEK) di Taman Mini Indonesia Indah. Aplikasi ini menyediakan informasi mengenai lokasi, fasilitas dan alat peraga pada kawasan tersebut, serta memberikan pengalaman tur virtual yang menyenangkan dan menambah pengetahuan pengguna tentang Science. Fitur-fitur yang mungkin termasuk dalam aplikasi ini meliputi peta interaktif dan gambar panorama.
     </p>
   </div>
   <div class="about-body">
@@ -47,7 +47,7 @@
         <img src="{{asset('assets/tour-guide.png')}}" />
         <h2>GUIDE</h2>
         <p>
-          Memberikan informasi - informasi seputar lokasi dan alat peraga pada Museum PP-IPTEK  
+          Memberikan informasi - informasi seputar lokasi dan Wahana pada Indonesia Science Center (PP-IPTEK)  
         </p>
       </div>
     </div>
@@ -64,7 +64,7 @@
       <br />
       <img src="{{asset('assets/bumper.png')}}" alt="" />
       <br>
-      <a href="https://tour.panoee.com/ISC_360" class="button">Mulai Tour</a>
+      <a href="https://s.id/ISC_360" class="button">Mulai Tour</a>
     </div>
   </div>
   <div class="texture-handler-bottom"></div>
@@ -73,9 +73,9 @@
 <!-- Section gallery -->
 <section class="section-discover" id="discover">
       <div class="section-head">
-        <h3 class="section-title">DISCOVERY Musuem PP-IPTEK</h3>
+        <h3 class="section-title">DISCOVERY INDONESIA SCIENCE CENTER (PP-IPTEK)</h3>
         <p class="section-subtitle">
-          Sebuah Museum yang menampilkan alat -alat teknologi
+          Sebuah Museum yang menampilkan Wahana-wahana seputar teknologi dan pengetahuan
         </p>
         <div class="section-line"></div>
       </div>

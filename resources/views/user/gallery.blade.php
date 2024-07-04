@@ -1,5 +1,5 @@
 @extends('layout.main')
-@section('title','IPTEK GO - Gallery')
+@section('title','Gallery | ISC 360°')
 @section('content')
 <section class="section-header-single">
 	<img src="{{asset('assets/immersive-experience-concept-collage (1).jpg')}}">

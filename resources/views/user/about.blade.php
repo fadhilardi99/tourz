@@ -1,5 +1,5 @@
 @extends('layout.main')
-@section("title", 'Tentang | IPTEK 360°')
+@section("title", 'Tentang | ISC 360°')
 @section('content')
 
 <section class="section-header-single">
@@ -21,9 +21,9 @@
 
 <section class="section section-about" style="background-color: #F8F8F8">
   <div class="about-head slides">
-    <h3>Iptek 360°</h3>
+    <h3>ISC 360°</h3>
     <p style="color: black">
-      <b>Iptek 360° </b> merupakan website yang memungkinkan pengguna untuk melakukan tur virtual di kawasan Museum PP-IPTEK di Taman Mini Indonesia Indah. Aplikasi ini menyediakan informasi mengenai lokasi, fasilitas dan alat peraga pada kawasan tersebut, serta memberikan pengalaman tur virtual yang menyenangkan dan menambah pengetahuan pengguna tentang Science. Fitur-fitur yang mungkin termasuk dalam aplikasi ini meliputi peta interaktif dan gambar panorama.
+      <b>ISC 360° </b> merupakan website yang memungkinkan pengguna untuk melakukan tur virtual di kawasan Indonesia Science Center (PP-IPTEK) di Taman Mini Indonesia Indah. Aplikasi ini menyediakan informasi mengenai lokasi, fasilitas dan alat peraga pada kawasan tersebut, serta memberikan pengalaman tur virtual yang menyenangkan dan menambah pengetahuan pengguna tentang Science. Fitur-fitur yang mungkin termasuk dalam aplikasi ini meliputi peta interaktif dan gambar panorama.
     </p>
   </div>
   <div class="about-body">
@@ -44,7 +44,7 @@
         <img src="{{asset('assets/tour-guide.png')}}" />
         <h2>GUIDE</h2>
         <p style="color: black">
-          Kami memberikan info - info seputar lokasi dan alat peraga pada Museum PP-IPTEK  
+          Memberikan informasi - informasi seputar lokasi dan Wahana pada Indonesia Science Center (PP-IPTEK)  
         </p>
       </div>
     </div>
