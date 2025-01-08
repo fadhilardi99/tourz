@@ -62,7 +62,7 @@
     <div class="caption">
       <h2>ENJOY THE TOUR ANYWHERE AND ANYTIME</h2>
       <br />
-      <img src="{{asset('assets/bumper.png')}}" alt="" />
+      <img src="{{asset('assets/bumperlogo.png')}}" alt="" />
       <br>
       <a href="https://s.id/ISC_360" class="button">Mulai Tour</a>
     </div>
